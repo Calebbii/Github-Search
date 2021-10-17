@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row">
+        <div class="col-3">
+            <div>
+                <img id="avatar" src="{{Users.avatar_url}}" alt="profile pic" height="200px" width="250px">
+                <p>Username: <strong>{{Users.login}}</strong></p>
+                <p>Followers: <strong>{{Users.followers}}</strong></p>
+                <p>Following: <strong>{{Users.followers}}</strong></p>
+                <p>Repositories: <strong>{{Users.repoNumber}}</strong></p>
+            </div>
+        </div>
+        <div class="col-9" id="projects">
+            <div class="project">
+                <div *ngFor='let repoDetail of repoDetails'>
+                    <div>
+                        <h4>{{ repoDetail.name }}</h4>
+                        <h6><em>Description</em></h6>
+                        <p>{{ repoDetail.description }} </p>
+                        <p><em>Language : </em>{{ repoDetail.language }}</p>
+                        <p><em>Date Created : </em>{{ repoDetail.dateCreated | date:'short' }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
