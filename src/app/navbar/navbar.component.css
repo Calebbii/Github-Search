@@ -1,0 +1,13 @@
+.navbar {
+    background-color: yellowgreen;
+    height: 3cm;
+}
+.navbar-brand {
+    font-size: 40px;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.nav-item {
+    font-size: 20px;
+    margin-top: 0.4cm;
+}
