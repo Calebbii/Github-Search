@@ -1,6 +1,36 @@
 # Github
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
+## Description
+An application where users create quotes and have those quotes voted on whether they are terrible or are inspirational.
+
+## Live Link
+https://calebbii.github.io/Quote-App/
+## Features
+* Built with HTML, CSS, Bootstrap and Typescript
+* Easy to run
+* Proper Idenation
+
+## Technologies Used
+* HTML
+* CSS
+* BOOTSTRAP
+* TYPESCRIPT
+* ANGULAR
+
+## Setup and Installation Requirements
+* Clone the repo
+* Opening the project on a text editor
+* Open the project on a live server
+
+## Author
+Caleb Bii
+
+## Support and Contact detail
+Email : biicaleb316@gmail.com
+
+## License and Copyright
+[MIT Lisence](https://github.com/Calebbii/Quote-App/blob/master/LICENSE) Copyright (c) 2021 Calebbii
 
 ## Development server
 
