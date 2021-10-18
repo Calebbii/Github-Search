@@ -6,9 +6,10 @@ img {
     flex-wrap: nowrap;
 }
 .project {
-     width: 10cm;
+     width: 15cm;
      height: 6cm;
      border-radius: 10%;
+     margin-left: 3cm;
 }
 h4 {
     text-align: center;
