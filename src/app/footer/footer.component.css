@@ -1,3 +1,8 @@
 footer {
     background-color: yellowgreen;
+    text-align: center;
+    height: 2cm;
+}
+ p {
+    padding: 0.7cm;
 }
