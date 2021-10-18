@@ -16,7 +16,7 @@ export class SearchService {
 
 
   constructor(private http: HttpClient) {
-    this.users = new User('', '', '', '', 0, 0, '', '',new Date)
+    this.users = new User('', '', '', '', 0, 0, '', '', new Date)
     this.repositories = new Repository('', '','', '', new Date)
   }
 
