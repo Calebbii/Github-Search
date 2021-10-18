@@ -1,10 +1,13 @@
-<h5>Insert Username</h5>
-<form (ngSubmit)="submitUsername()">
-    <div class="row">
-        <div class="col-3">
-            <input type="text" [(ngModel)] = 'username' name="username" placeholder="Find a User" class="form-control">
+<div id="userName">
+    <h5>Insert Username</h5>
+    <form (ngSubmit)="submitUsername()">
+        <div class="row">
+            <div class="col-3">
+                <input type="text" [(ngModel)] = 'username' name="username" placeholder="Find a User" class="form-control">
+            </div>
+            <div class="col-9"></div>
         </div>
-        <div class="col-9"></div>
-    </div>
-    <button type="submit" class="btn btn-info">Enter</button>
-  </form>
+        <hr>
+        <button type="submit" class="btn btn-info">Search</button>
+    </form>
+</div>
