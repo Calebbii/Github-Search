@@ -30,7 +30,7 @@ Caleb Bii
 Email : biicaleb316@gmail.com
 
 ## License and Copyright
-[MIT Lisence]() Copyright (c) 2021 Calebbii
+[MIT Lisence](https://github.com/Calebbii/Github-Search/blob/master/LICENSE) Copyright (c) 2021 Calebbii
 
 ## Development server
 
