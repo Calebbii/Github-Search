@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 An application where users create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
 ## Live Link
-https://calebbii.github.io/Quote-App/
+https://calebbii.github.io/Github-Search/
 ## Features
 * Built with HTML, CSS, Bootstrap and Typescript
 * Easy to run
